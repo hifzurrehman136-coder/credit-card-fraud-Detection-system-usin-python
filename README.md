@@ -23,6 +23,11 @@ Given the extreme imbalance in the dataset, with fraud cases representing only a
 * **Fraud transactions:** 492 (~0.17%)
 * **Non-fraud transactions:** 284,315 (~99.83%)
 
+<img width="1076" height="700" alt="Screenshot 2026-03-19 013944" src="https://github.com/user-attachments/assets/f3fa6cd9-1e9c-4583-810e-6f078864eb1b" />
+
+
+
+
 **Dataset Source:** This dataset was obtained from **Kaggle**: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). It contains anonymized features to protect sensitive user information.
 
 The high imbalance necessitates careful evaluation and consideration of appropriate metrics.
